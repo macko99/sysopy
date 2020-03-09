@@ -1,0 +1,159 @@
+static (O):
+                          Name		   Real time[s]	   User time[s]	 System time[s]
+                  create_array:		       0.000000	       0.000000	       0.000000	
+                    small_diff:		       0.000000	       0.000000	       0.000000	
+                  remove_block:		       0.000000	       0.000000	       0.000000	
+              remove_operation:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+              remove_medium_op:		       0.000000	       0.000000	       0.000000	
+              remove_med_block:		       0.000000	       0.000000	       0.000000	
+                      big_diff:		       0.020000	       0.000000	       0.000000	
+                 big_rmeove_op:		       0.000000	       0.000000	       0.000000	
+              big_remove_block:		       0.000000	       0.000000	       0.000000	
+                remove_block_0:		       0.010000	       0.000000	       0.000000	
+
+shared (O):
+                          Name		   Real time[s]	   User time[s]	 System time[s]
+                  create_array:		       0.000000	       0.000000	       0.000000	
+                    small_diff:		       0.000000	       0.000000	       0.000000	
+                  remove_block:		       0.000000	       0.000000	       0.000000	
+              remove_operation:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.020000	       0.000000	       0.000000	
+              remove_medium_op:		       0.000000	       0.000000	       0.000000	
+              remove_med_block:		       0.000000	       0.000000	       0.000000	
+                      big_diff:		       0.020000	       0.000000	       0.000000	
+                 big_rmeove_op:		       0.000000	       0.000000	       0.000000	
+              big_remove_block:		       0.000000	       0.000000	       0.000000	
+                remove_block_0:		       0.000000	       0.000000	       0.000000	
+
+dynamic (O):
+                          Name		   Real time[s]	   User time[s]	 System time[s]
+                  create_array:		       0.000000	       0.000000	       0.000000	
+                    small_diff:		       0.010000	       0.000000	       0.000000	
+                  remove_block:		       0.000000	       0.000000	       0.000000	
+              remove_operation:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.020000	       0.000000	       0.000000	
+                   medium_diff:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.020000	       0.000000	       0.000000	
+              remove_medium_op:		       0.000000	       0.000000	       0.000000	
+              remove_med_block:		       0.000000	       0.000000	       0.000000	
+                      big_diff:		       0.020000	       0.000000	       0.000000	
+                 big_rmeove_op:		       0.000000	       0.000000	       0.000000	
+              big_remove_block:		       0.000000	       0.000000	       0.000000	
+                remove_block_0:		       0.000000	       0.000000	       0.000000	
+static (O2):
+                          Name		   Real time[s]	   User time[s]	 System time[s]
+                  create_array:		       0.000000	       0.000000	       0.000000	
+                    small_diff:		       0.000000	       0.000000	       0.000000	
+                  remove_block:		       0.000000	       0.000000	       0.000000	
+              remove_operation:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+              remove_medium_op:		       0.000000	       0.000000	       0.000000	
+              remove_med_block:		       0.000000	       0.000000	       0.000000	
+                      big_diff:		       0.020000	       0.000000	       0.000000	
+                 big_rmeove_op:		       0.000000	       0.000000	       0.000000	
+              big_remove_block:		       0.000000	       0.000000	       0.000000	
+                remove_block_0:		       0.000000	       0.000000	       0.000000	
+
+shared (O2):
+                          Name		   Real time[s]	   User time[s]	 System time[s]
+                  create_array:		       0.000000	       0.000000	       0.000000	
+                    small_diff:		       0.000000	       0.000000	       0.000000	
+                  remove_block:		       0.000000	       0.000000	       0.000000	
+              remove_operation:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+              remove_medium_op:		       0.000000	       0.000000	       0.000000	
+              remove_med_block:		       0.000000	       0.000000	       0.000000	
+                      big_diff:		       0.020000	       0.000000	       0.000000	
+                 big_rmeove_op:		       0.000000	       0.000000	       0.000000	
+              big_remove_block:		       0.000000	       0.000000	       0.000000	
+                remove_block_0:		       0.000000	       0.000000	       0.000000	
+
+dynamic (O2):
+                          Name		   Real time[s]	   User time[s]	 System time[s]
+                  create_array:		       0.000000	       0.000000	       0.000000	
+                    small_diff:		       0.010000	       0.000000	       0.000000	
+                  remove_block:		       0.000000	       0.000000	       0.000000	
+              remove_operation:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+              remove_medium_op:		       0.000000	       0.000000	       0.000000	
+              remove_med_block:		       0.000000	       0.000000	       0.000000	
+                      big_diff:		       0.020000	       0.000000	       0.000000	
+                 big_rmeove_op:		       0.000000	       0.000000	       0.000000	
+              big_remove_block:		       0.000000	       0.000000	       0.000000	
+                remove_block_0:		       0.000000	       0.000000	       0.000000	
+static (Os):
+                          Name		   Real time[s]	   User time[s]	 System time[s]
+                  create_array:		       0.000000	       0.000000	       0.000000	
+                    small_diff:		       0.000000	       0.000000	       0.000000	
+                  remove_block:		       0.000000	       0.000000	       0.000000	
+              remove_operation:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+              remove_medium_op:		       0.000000	       0.000000	       0.000000	
+              remove_med_block:		       0.000000	       0.000000	       0.000000	
+                      big_diff:		       0.020000	       0.000000	       0.000000	
+                 big_rmeove_op:		       0.000000	       0.000000	       0.000000	
+              big_remove_block:		       0.000000	       0.000000	       0.000000	
+                remove_block_0:		       0.000000	       0.000000	       0.000000	
+
+shared (Os):
+                          Name		   Real time[s]	   User time[s]	 System time[s]
+                  create_array:		       0.000000	       0.000000	       0.000000	
+                    small_diff:		       0.010000	       0.000000	       0.000000	
+                  remove_block:		       0.000000	       0.000000	       0.000000	
+              remove_operation:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.020000	       0.000000	       0.000000	
+              remove_medium_op:		       0.000000	       0.000000	       0.000000	
+              remove_med_block:		       0.000000	       0.000000	       0.000000	
+                      big_diff:		       0.020000	       0.000000	       0.000000	
+                 big_rmeove_op:		       0.000000	       0.000000	       0.000000	
+              big_remove_block:		       0.000000	       0.000000	       0.000000	
+                remove_block_0:		       0.000000	       0.000000	       0.000000	
+
+dynamic (Os):
+                          Name		   Real time[s]	   User time[s]	 System time[s]
+                  create_array:		       0.000000	       0.000000	       0.000000	
+                    small_diff:		       0.000000	       0.000000	       0.000000	
+                  remove_block:		       0.000000	       0.000000	       0.000000	
+              remove_operation:		       0.000000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+                   medium_diff:		       0.010000	       0.000000	       0.000000	
+              remove_medium_op:		       0.000000	       0.000000	       0.000000	
+              remove_med_block:		       0.000000	       0.000000	       0.000000	
+                      big_diff:		       0.020000	       0.000000	       0.000000	
+                 big_rmeove_op:		       0.000000	       0.000000	       0.000000	
+              big_remove_block:		       0.000000	       0.000000	       0.000000	
+                remove_block_0:		       0.000000	       0.000000	       0.000000	

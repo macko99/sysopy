@@ -1,0 +1,15 @@
+start create_array 100 end create_array
+start compare_pairs a.txt:b.txt:c.txt:d.txt end small_diff
+start remove_block 0 end remove_block
+start remove_operation 1 0 end remove_operation
+start compare_pairs a.txt:b.txt:c.txt:d.txt:e.txt:f.txt end medium_diff
+start compare_pairs a.txt:b.txt:c.txt:d.txt:e.txt:f.txt end medium_diff
+start compare_pairs a.txt:b.txt:c.txt:d.txt:e.txt:f.txt end medium_diff
+start compare_pairs a.txt:b.txt:c.txt:d.txt:e.txt:f.txt end medium_diff
+start compare_pairs a.txt:b.txt:c.txt:d.txt:e.txt:f.txt end medium_diff
+start remove_operation 6 0 end remove_medium_op
+start remove_block 4 end remove_med_block
+start compare_pairs a.txt:b.txt:c.txt:d.txt:e.txt:f.txt:g.txt:h.txt:g.txt:h.txt end big_diff
+start remove_operation 8 0 end big_rmeove_op
+start remove_block 50 end big_remove_block
+start file_to_array remove_block 0 file_to_array remove_block 0 file_to_array remove_block 0 end remove_block_0
