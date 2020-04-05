@@ -1,0 +1,8 @@
+fork():
+Sygnał czekający w przodku nie jest widoczny w dziecku.
+Proces potomny dziedziczy maskowanie, handlery i ignorowanie.
+
+
+exec():
+Sygnał oczekujący w przodku oczekuje też w dziecku.
+Proces potomny dziedziczy maskowanie i ignorowanie.
