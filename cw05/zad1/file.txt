@@ -1,0 +1,3 @@
+cat ./main.c | wc -l
+cat ./main.c | head -3 | sort -r
+ps -aux | grep root | wc -l
